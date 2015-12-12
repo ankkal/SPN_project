@@ -19,7 +19,7 @@ public class FTPUploadFileDemo {
 		String server = "cbapwatest.com";
 		int port = 21;
 		String user = "cbapwatest@godaddy.purplesms.in";
-		String pass = ").V_Konv(z&P";
+		String pass = ").V_Konv(z&PQ";
 
 		FTPClient ftpClient = new FTPClient();
 		try {

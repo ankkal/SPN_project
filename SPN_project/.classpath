@@ -20,5 +20,8 @@
 	<classpathentry kind="lib" path="C:/Integration_Deck/SPN_Files/commons-net-3.3-bin/commons-net-3.3/commons-net-3.3.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javaee.jar"/>
 	<classpathentry kind="lib" path="WebContent/WEB-INF/lib/javax.mail-1.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ankkal/Downloads/appengine-gcs-client-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ankkal/Downloads/guava-15.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ankkal/Downloads/joda-time-2.3.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
